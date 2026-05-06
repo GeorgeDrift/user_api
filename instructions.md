@@ -4,8 +4,9 @@ This document contains the commands to test all points of the practical test.
 
 ---
 
-## 🛠️ Database Setup (PowerShell)
+## 🛠️ Database Setup 
 Run this once to create the 3 normalized tables.
+
 DROP DATABASE IF EXISTS userapi;
 
 CREATE DATABASE userapi
