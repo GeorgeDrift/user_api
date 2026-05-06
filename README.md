@@ -1,4 +1,4 @@
-# UserAPI – Back-End Developer Practical Test
+
 
 A RESTful API built with Node.js and Express that fetches user data from an external source, stores it in a normalized MySQL database, and provides endpoints for managing and filtering users.
 
@@ -28,7 +28,7 @@ npm install
 ```
 
 ### 2. Database Setup
-1. Log into your MySQL instance (phpMyAdmin or terminal).
+1. Log into your MySQL instance phpMyAdmin .
 2. Run the provided schema file copy and press create new database and go to sql tab and paste the schema.sql or the users.sql whic was exported content by copying it and pasting it  to create the database and the 3 normalized tables:
 
 DROP DATABASE IF EXISTS userapi;
